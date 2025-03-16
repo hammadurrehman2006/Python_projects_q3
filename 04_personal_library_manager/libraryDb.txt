@@ -1,0 +1,2 @@
+Book of Book|author|2025|Non-fiction|True
+The Great Wall of China|Xi Ping Ching|2020|History|True
